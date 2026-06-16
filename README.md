@@ -6,6 +6,7 @@ Este repositorio contiene una colección de guías y notas útiles para administ
 
 - [AWK](awk.md) – Guía de uso de AWK para procesamiento de texto y generación de informes.
 - [Git](git.md) – Comandos esenciales y flujos de trabajo con Git.
+- [GPG](gpg.md) – Comandos esenciales de GPG para gestión de claves, cifrado y descifrado.
 - [Linux Admin](linuxadmin.md) – Notas generales de administración Linux (usuarios, permisos, servicios, etc.).
 - [Proxmox](proxmox.md) – Tips y comandos para gestionar Proxmox VE.
 - [QEMU](qemu.md) – Uso de QEMU para virtualización y emulación.
